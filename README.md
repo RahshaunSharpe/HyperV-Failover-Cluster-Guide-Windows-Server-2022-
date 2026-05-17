@@ -28,3 +28,5 @@ Backup & recovery integration
 Monitoring and alerting
 Security hardening of clustered systems
 
+
+OPEN the WORD DOC ABOVE TO BEGIN THE GUIDE
